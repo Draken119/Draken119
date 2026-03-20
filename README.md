@@ -97,20 +97,6 @@ Construo ferramentas que automatizam o que deveria ser manual, painéis que cont
 
 <div align="center">
 
-### SNAKE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Draken119/Draken119/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Draken119/Draken119/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Draken119/Draken119/output/github-snake-dark.svg" width="98%"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 <br/>
 
 [<img src="https://img.shields.io/badge/◈__now_playing-1DB954?style=for-the-badge&logo=spotify&logoColor=000000&labelColor=1DB954"/>](https://open.spotify.com/track/1hSZY1weCZKmu8uTkF0BwQ?si=JHOG2qUBQp-BCAAY2S4qrA)
