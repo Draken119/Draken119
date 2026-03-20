@@ -117,3 +117,4 @@ Construo ferramentas que automatizam o que deveria ser manual, painéis que cont
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:000000&height=80&section=footer" width="100%"/>
 
 </div>
+
