@@ -77,6 +77,10 @@ Construo ferramentas que automatizam o que deveria ser manual, painéis que cont
 </div>
 
 ```
+◈  CDRIV                        lib Python para controlar Chromium via ChromeDriver no Termux.
+                               pip install cdriv — alternativa ao Playwright/Selenium.
+                               https://github.com/Draken119/cdriv
+
 ◈  DISCORD BOT SYSTEM         sistema completo de tickets, slash commands, transcrições,
                                logging, close/claim, roles de ping — modular, escalável.
 
