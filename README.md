@@ -12,7 +12,7 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draken119&layout=donut&theme=transparent&hide_border=true&title_color=555555&text_color=666666&bg_color=0d0d0d&langs_count=6&hide_title=true"/>
 
-**`VINI / AYA`** — desenvolvedor autodidata, movido por obsessão técnica e disciplina acima da média.
+**`VINI / AYA`** — desenvolvedor autodidata, movido por obsessão técnica e disciplina.
 
 Construo ferramentas que automatizam o que deveria ser manual, painéis que controlam o que deveria estar solto, bots que operam onde nenhum humano conseguiria acompanhar o ritmo.
 
