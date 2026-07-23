@@ -14,8 +14,6 @@
 
 **`VINI / AYA`** — desenvolvedor autodidata, movido por obsessão técnica e disciplina acima da média.
 
-Não tenho interesse em seguir o caminho padrão. Entendo sistemas no nível que a maioria ignora — protocolo, payload, heartbeat, como as coisas realmente funcionam por baixo da abstração.
-
 Construo ferramentas que automatizam o que deveria ser manual, painéis que controlam o que deveria estar solto, bots que operam onde nenhum humano conseguiria acompanhar o ritmo.
 
 > *"Eu estudo até entender de verdade. Aí eu construo. Aí eu otimizo. E depois começo de novo."*
